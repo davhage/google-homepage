@@ -1,0 +1,1 @@
+Hi, I'm doing a google homepage clone for the odin project as my first project.
